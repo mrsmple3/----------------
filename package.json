@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.70.0"
+  },
+  "scripts": {
+    "sass": "sass src/scss:public"
+  }
+}
